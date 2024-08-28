@@ -24,7 +24,7 @@ import UpdateLocation from './page/User/UpdateLocation';
 
 function App() {
   return (
-    <BrowserRouter basename="/E_commerce/E_commerce">
+    <BrowserRouter>
       <Routes>
         {/* _________________________________________ */}
         {/* Public routes */}
